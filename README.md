@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @doctoroop
-- 👀 I’m interested in computer science, user interfaces, ui portability, software migration, lexers-parsers, text ui (like turbovision, etc)
-- 🌱 I’m currently learning python,no-sql db
-- 💞️ I’m looking to collaborate on wpf, uwp projects
+- 👀 I’m interested in computer science, microcontrollers, user interfaces, ui portability, software migration, lexers-parsers, text ui (like turbovision, etc)
+- 🌱 I’m currently learning fpga
+- 💞️ I’m looking to collaborate on bare-metal and rtos
 - 📫 How to reach me javanerdy on gmail
 
 <!---
